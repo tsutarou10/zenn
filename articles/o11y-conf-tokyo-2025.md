@@ -3,7 +3,7 @@ title: "初めてカンファレンス実行委員に参加しました! – Obs
 emoji: "🎉"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["Observability", "SRE", "conference", "o11confjp"]
-published: false
+published: true
 ---
 
 ## はじめに
